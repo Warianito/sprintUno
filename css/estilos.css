@@ -1,0 +1,39 @@
+header{
+    background-color: blue;
+    padding-bottom: 25px;
+}
+
+nav{
+    background-color: rgb(14, 14, 92);
+    color: white;
+    margin-top: -10px;
+}
+
+main{
+    width: 74%;
+    float: left;
+    background-color: gray;
+    margin-top: -21px;
+}
+
+aside{
+    width: 25%;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    text-align: center;
+    margin-top: -21px;    
+}
+
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.izquierda{
+    text-align: left;
+}
+
+.derecha{
+    text-align: right;
+}
